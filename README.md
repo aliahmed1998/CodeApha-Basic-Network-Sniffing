@@ -5,8 +5,11 @@
 ## Example
 
 ```sudo python3 Basic-Network-Sniffing.py eth0 -P icmp -c 20 ```
+
 choose interface that Essentail
+
 -c  number of packets [option] 
+
 -P  portocol Filter  [option]
 
 ## Image

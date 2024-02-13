@@ -2,7 +2,7 @@
 ```python3 Basic-Network-Sniffing.py [-P PROTOCOL] [-c COUNT] interface```
 
 
-#Example
+##Example
 
 ```sudo python3 Basic-Network-Sniffing.py eth0 -P icmp -c 90000 ```
 
